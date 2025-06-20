@@ -8,21 +8,31 @@ This is a simple **ATM simulation program** developed in C. It is designed to he
 
 ## ⚙️ Features
 
-- ✅ PIN verification before access
-- 💰 Balance Inquiry
-- 🏧 Cash Withdrawal
-- 💵 Cash Deposit
-- Pin change
+- ✅ PIN verification before access  
+- 💰 Balance Inquiry  
+- 🏧 Cash Withdrawal  
+- 💵 Cash Deposit  
+- 🔐 PIN Change  
 
 ---
 
 ## 🧠 C Concepts Used
 
-- Functions
-- Strings
-- Loops (`while`)
-- Arrays
+- Functions  
+- Strings  
+- Loops (`while`)  
+- Arrays  
 - Conditional Statements (`if-else`, `switch-case`)
+
+---
+
+## 👨‍💻 Contributors
+
+- Harsh Chaudhari
+- Brijesh Thakkar
+- Suvarn Patil
+- Faiz Raise
+  
 
 ---
 
