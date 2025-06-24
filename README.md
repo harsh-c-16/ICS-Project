@@ -38,10 +38,9 @@ The main objective of this project is to replicate the working of a basic ATM sy
 
 - 🔐 **User Authentication**  
   - 3 attempts for 4-digit PIN entry  
-  - Default PIN = `0000` if file not found
+  - Default PIN = `0000`
 
-- 💸 **Cash Withdrawal**  
-  - Daily limit: ₹2500  
+- 💸 **Cash Withdrawal**   
   - Balance updated and logged after withdrawal
 
 - 💰 **Cash Deposit**  
@@ -91,7 +90,6 @@ If any of these files are missing, the system loads default values to ensure smo
 
 - PIN verification before accessing account  
 - Max 3 attempts for PIN entry  
-- Withdrawal limit of ₹2500 per session  
 - All actions logged for accountability and security
 
 ---
