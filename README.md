@@ -3,7 +3,7 @@
 > **Team Name:** Classic Four  
 > **Project Type:** ICS Major Project  
 > **Team Members:**
-> - 🧑‍💻 Harsh Harish Chaudhari (B24CM1027) 
+> - 🧑‍💻 Harsh Chaudhari (B24CM1027) 
 > - 🧑‍💻 Brijesh Thakkar (B24ME1018)  
 > - 🧑‍💻 Suvarn Vijay Patil (B24CS1074)   
 > - 🧑‍💻 Faiz Raise (B24BB1010)
